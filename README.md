@@ -69,10 +69,10 @@
 > [Debian / ISO Builder / 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/)
 
 
-| Debian / ISO Builder / Mate | GitHub |
-| ----------------------------- | ------ |
-| [debian-iso-builder-respin-mate](https://samwhelp.github.io/debian-iso-builder-respin-mate/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-respin-mate) |
-| [debian-iso-builder-remix-mate](https://samwhelp.github.io/debian-iso-builder-remix-mate/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-remix-mate) |
+| Debian / ISO Builder / Mate |
+| --------------------------- |
+| [debian-iso-builder-respin-mate](https://github.com/samwhelp/debian-iso-builder-respin-mate) |
+| [debian-iso-builder-remix-mate](https://github.com/samwhelp/debian-iso-builder-remix-mate) |
 
 
 
@@ -80,20 +80,14 @@
 > [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/)
 
 
-| Build Debian Mate ISO | GitHub |
-| --------------------- | ------ |
-| [lika-live-build-respin-mate](https://samwhelp.github.io/lika-live-build-respin-mate/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-mate) |
+| Build Debian Mate ISO |
+| --------------------- |
+| [lika-live-build-respin-mate](https://github.com/samwhelp/lika-live-build-respin-mate) |
+| [lika-live-build-recipe-mate-theme-vimix](https://github.com/samwhelp/lika-live-build-recipe-mate-theme-vimix) |
+| [lika-live-build-respin-mate-with-kwin](https://github.com/samwhelp/lika-live-build-respin-mate-with-kwin) |
+| [lika-live-build-respin-mate-with-compiz](https://github.com/samwhelp/lika-live-build-respin-mate-with-compiz) |
 
 
-| Build Debian Mate ISO | GitHub |
-| --------------------- | ------ |
-| [lika-live-build-respin-mate-with-kwin](https://samwhelp.github.io/lika-live-build-respin-mate-with-kwin/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-mate-with-kwin) |
-| [lika-live-build-respin-mate-with-compiz](https://samwhelp.github.io/lika-live-build-respin-mate-with-compiz/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-mate-with-compiz) |
-
-
-| Build Debian Mate ISO | GitHub |
-| --------------------- | ------ |
-| [lika-live-build-recipe-mate-theme-vimix](https://samwhelp.github.io/lika-live-build-recipe-mate-theme-vimix/) | [GitHub](https://github.com/samwhelp/lika-live-build-recipe-mate-theme-vimix) |
 
 
 > [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/)
