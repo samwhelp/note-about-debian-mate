@@ -99,7 +99,6 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [System Modeling](https://samwhelp.github.io/system-modeling/) | [GitHub](https://github.com/samwhelp/system-modeling) |
 | [Mate Desktop 探索筆記](https://samwhelp.github.io/note-about-mate/) | [GitHub](https://github.com/samwhelp/note-about-mate) |
 | [Compiz 探索筆記](https://samwhelp.github.io/note-about-compiz/) | [GitHub](https://github.com/samwhelp/note-about-compiz) |
 | [Ubuntu Mate 探索筆記](https://samwhelp.github.io/note-about-ubuntu-mate/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-mate) |
